@@ -23,6 +23,6 @@ color:
     - '#fde473'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.1875
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
