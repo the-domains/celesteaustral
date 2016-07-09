@@ -1,0 +1,28 @@
+name: celesteaustral
+favicon: null
+layout_spectrum: 0.004834432387724519
+typography_spectrum: 0.022188733564689755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.019953443203121424
+  lightness: 0.5826865443959832
+  saturation: 0.5837996141053736
+  rhythmicContrast: 0.8220789616461843
+purpose: []
